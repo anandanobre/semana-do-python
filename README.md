@@ -10,3 +10,8 @@ Bibliotecas utilizada:
   - matplotlib
   - sklearn
   - numpy
+
+Caso seja necessário instalação de alguma das bibliotecas execute o seguinte comando no prompt do anaconta ou no terminal da IDE:
+pip install "nome da biblioteca sem aspas"
+
+Ex: ***pip install pandas***
